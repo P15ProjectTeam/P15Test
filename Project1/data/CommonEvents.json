@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"list":[{"code":108,"indent":0,"parameters":["id: 1"]},{"code":408,"indent":0,"parameters":["icon: 64"]},{"code":408,"indent":0,"parameters":["secret: false"]},{"code":408,"indent":0,"parameters":["title: test1"]},{"code":408,"indent":0,"parameters":["来到游戏"]},{"code":108,"indent":0,"parameters":["id: 2"]},{"code":408,"indent":0,"parameters":["icon: 64"]},{"code":408,"indent":0,"parameters":["secret: false"]},{"code":408,"indent":0,"parameters":["title: 露出放尿"]},{"code":408,"indent":0,"parameters":["公开场合放尿一次"]},{"code":0,"indent":0,"parameters":[]}],"name":"achievement","switchId":1,"trigger":0},
-{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":111,"indent":0,"parameters":[0,20,0]},{"code":121,"indent":1,"parameters":[20,20,1]},{"code":0,"indent":1,"parameters":[]},{"code":411,"indent":0,"parameters":[]},{"code":121,"indent":1,"parameters":[20,20,0]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":111,"indent":0,"parameters":[0,20,0]},{"code":356,"indent":1,"parameters":["Flashlight on 8 12 #FFFFFF"]},{"code":0,"indent":1,"parameters":[]},{"code":411,"indent":0,"parameters":[]},{"code":356,"indent":1,"parameters":["Flashlight off"]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"FlashLight","switchId":1,"trigger":0},
 {"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
 {"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
 ]
