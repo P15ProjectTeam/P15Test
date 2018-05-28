@@ -1,0 +1,21 @@
+
+[
+    ["Story", "Gathering", "Ivalice", "Bounties"],
+	{
+		"id": 1,
+        "icon": 290,
+        "cat": 1,
+		"name": "Cat Collector",
+		"desc": "Mrs. Buttersworth lost all of her cats. Can you find all five of them?",
+		"steps": [
+			["Collect all 5 cats.", true, 1, 5, false],
+			["Talk to Mrs. Buttersworth.", false, 1, 1, false]
+		],
+		"rewards": [
+			["custom", "Kiss from Mrs. Buttersworth", 0, false],
+			["item", 1, 5, false],
+			["gold", 100, 0, false],
+			["xp", 100, 0, false]
+		]
+	}
+]

@@ -1,4 +1,4 @@
 [
 null,
-{"id":1,"battlerName":"z01battle","characterIndex":0,"characterName":"z01","classId":5,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"z01","traits":[],"initialLevel":1,"maxLevel":99,"name":"nora","nickname":"","note":"<SBIImage:a01>\n<secondName:1>","profile":""}
+{"id":1,"battlerName":"hero01battle","characterIndex":0,"characterName":"z01","classId":5,"equips":[11,12,2,3,0],"faceIndex":0,"faceName":"z01","traits":[],"initialLevel":1,"maxLevel":99,"name":"nora","nickname":"","note":"<SBIImage:a01>\n<secondName:1>","profile":""}
 ]
